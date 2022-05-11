@@ -2,5 +2,5 @@
 Final project for Engineering Design Optimization course at Stanford University
 
 ## Current Directories
-papers --> contains relevant papers
+papers --> contains relevant papers \
 notebooks -->  contains Jupyter notebooks for development
